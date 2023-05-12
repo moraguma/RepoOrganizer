@@ -1,0 +1,3 @@
+[submodule "EpisodicMemoryAgent"]
+	path = EpisodicMemoryAgent
+	url = https://github.com/H-IAAC/EpisodicMemoryAgent
