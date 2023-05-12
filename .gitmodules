@@ -1,3 +1,14 @@
 [submodule "EpisodicMemoryAgent"]
 	path = EpisodicMemoryAgent
 	url = https://github.com/H-IAAC/EpisodicMemoryAgent
+[submodule "mindviewer-web"]
+	path = mindviewer-web
+	url = https://github.com/H-IAAC/mindviewer-web
+[submodule "episodic-memory"]
+	path = episodic-memory
+	url = https://github.com/H-IAAC/episodic-memory
+[submodule "EpisodeTrackerModule"]
+	path = EpisodeTrackerModule
+	url = https://github.com/CST-Group/EpisodeTrackerModule
+[submodule "DbConnector"]
+	branch = stable
