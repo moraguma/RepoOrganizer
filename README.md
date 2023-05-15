@@ -1,4 +1,4 @@
-# HIAAC - Cognitive Architectures <img src="./fig/arqcog-1.svg" alt= “Cognitive Architecture Team Logo” width="40" height="40"> 
+# HIAAC - Cognitive Architectures <img src="./fig/arqcog-1.svg" alt="Cognitive Architecture Team Logo" width="40" height="40"> 
 
 These project is a repository hub for projects develop by the Cognitive Architectures research line from the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC) of the State University of Campinas (UNICAMP)
 
