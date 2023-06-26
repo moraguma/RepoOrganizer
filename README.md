@@ -1,12 +1,15 @@
-# <img src="./fig/arqcog-2.svg" alt="Cognitive Architecture Team Logo" width="40" height="40"> HIAAC - Cognitive Architectures
+# <img src="./fig/logo.svg" alt="Hub for Artificial Inteligence and Cognitive Architecture Logo" width="40" height="40"> Hub for Artificial Intelligence and Cognitive Architecture
 
-These project is a repository hub for projects develop by the Cognitive Architectures research line from the [Hub for Artificial Intelligence and Cognitive Architectures](https://hiaac.unicamp.br/en/) (H.IAAC) of the [State University of Campinas](https://www.unicamp.br/unicamp/) (UNICAMP)
+These project is a repository hub for all research lines from the [Hub for Artificial Intelligence and Cognitive Architectures](https://hiaac.unicamp.br/en/) (H.IAAC) of the [State University of Campinas](https://www.unicamp.br/unicamp/) (UNICAMP)
 
-This line of research has the mission of advancing the state of the art of artificial intelligence through the proposal of cognitive computational models inspired by the in-depth study of the many forms of intelligence in nature, the development of intelligence in childhood, the role of emotions and interactions, decision-making processes and the most recent neuroscientific discoveries.
+The Artificial Intelligence and Cognitive Architectures Hub aims to develop and disseminate knowledge about technologies capable of integrating different intelligence resources into mobile devices, making them skilled in decision-making.
 
-In particular, the line seeks to develop the first mobile cognitive architecture, based on the Cognitive Systems Toolkit (CST), aiming to implement innovative and customized functionalities for users of mobile devices based on a more intelligent processing of sensor data, identification of profiles and contexts of usage, and emotional states of users.
+The Hub aims to develop research to expand the cognitive and decision-making capacity of mobile devices, such as tablets and cell phones, making life easier for users.  Unicamp researchers will be responsible for producing and disseminating technological knowledge, while ELDORADO will develop application prototypes.
 
-## Projects
+The Hub's team is made up of undergraduate, master's and doctoral students, post-docs and professors from Unicamp, in addition to professionals from ELDORADO.
+
+
+## Research Lines
 
 |Project Name| Main Researcher | Degree | Link|
 |---|---|---|---|
