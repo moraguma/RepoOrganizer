@@ -7,7 +7,7 @@ the Hub for Artificial Intelligence and Cognitive Architectures (H.IAAC) of the 
 See more projects from the group [here](https://github.com/brgsil/RepoOrganizer).
 
 [![](https://img.shields.io/badge/-H.IAAC-eb901a?style=for-the-badge&labelColor=black)](https://hiaac.unicamp.br/)
-[![](https://img.shields.io/badge/-Knowledge-Representation-black?style=for-the-badge)](https://github.com/brgsil/RepoOrganizer)
+[![](https://img.shields.io/badge/-Knowledge%20Representation-black?style=for-the-badge)](https://github.com/brgsil/RepoOrganizer)
 
 ## Repository Structure
 > Lista e descrição das pastas e arquivos importantes na raiz do repositório
