@@ -1,4 +1,4 @@
-# <img src="./fig/logo.svg" alt="Hub for Artificial Inteligence and Cognitive Architecture Logo" width="40" height="40"> Hub for Artificial Intelligence and Cognitive Architecture
+# <img src="./fig/logo.svg" alt="Hub for Artificial Inteligence and Cognitive Architecture Logo" width="154" height="112" style="object-fit:none; object-position:left top"> Hub for Artificial Intelligence and Cognitive Architecture
 
 These project is a repository hub for all research lines from the [Hub for Artificial Intelligence and Cognitive Architectures](https://hiaac.unicamp.br/en/) (H.IAAC) of the [State University of Campinas](https://www.unicamp.br/unicamp/) (UNICAMP)
 
