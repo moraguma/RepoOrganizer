@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/brgsil/RepoOrganizer/refs/heads/master/fig/arqcog-2.svg" alt="Learning in Cognitive Architecture Team Logo" width="40" height="40"> `<Project-Name>`
+# `<Project-Name>`
 
 > Descrição do projeto, objetivos e intenções de uso
 
